@@ -1,0 +1,23 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>${date}</h1>
+${weatherData}
+</body>
+</html>
+
+
+
+<!-- 	        request.setAttribute("date", date);
+	        request.setAttribute("city", city);
+	        request.setAttribute("temperature", temperatureCelsius);
+	        request.setAttribute("weatherCondition", weatherCondition); 
+	        request.setAttribute("humidity", humidity);    
+	        request.setAttribute("windSpeed", windSpeed);
+	        request.setAttribute("weatherData", responseContent.toString()); -->
