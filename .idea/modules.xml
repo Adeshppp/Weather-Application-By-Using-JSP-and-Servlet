@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.metadata/.metadata.iml" filepath="$PROJECT_DIR$/.metadata/.metadata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWeatherApp/MyWeatherApp.iml" filepath="$PROJECT_DIR$/MyWeatherApp/MyWeatherApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Weather Application By Using JSP and Servlet.iml" filepath="$PROJECT_DIR$/.idea/Weather Application By Using JSP and Servlet.iml" />
+    </modules>
+  </component>
+</project>
