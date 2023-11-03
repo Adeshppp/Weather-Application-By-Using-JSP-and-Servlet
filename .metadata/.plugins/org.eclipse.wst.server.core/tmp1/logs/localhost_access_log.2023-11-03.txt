@@ -187,3 +187,8 @@
 0:0:0:0:0:0:0:1 - - [03/Nov/2023:01:44:16 -0400] "GET /MyWeatherApp/ HTTP/1.1" 200 1095
 0:0:0:0:0:0:0:1 - - [03/Nov/2023:01:44:19 -0400] "POST /MyWeatherApp/MyServlet HTTP/1.1" 200 2378
 0:0:0:0:0:0:0:1 - - [03/Nov/2023:01:44:24 -0400] "POST /MyWeatherApp/MyServlet HTTP/1.1" 200 2377
+0:0:0:0:0:0:0:1 - - [03/Nov/2023:01:53:53 -0400] "POST /MyWeatherApp/MyServlet HTTP/1.1" 200 2378
+0:0:0:0:0:0:0:1 - - [03/Nov/2023:01:53:53 -0400] "GET /MyWeatherApp/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Nov/2023:01:53:53 -0400] "GET /MyWeatherApp/myScript.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Nov/2023:01:54:03 -0400] "POST /MyWeatherApp/MyServlet HTTP/1.1" 200 2377
+0:0:0:0:0:0:0:1 - - [03/Nov/2023:01:54:17 -0400] "POST /MyWeatherApp/MyServlet HTTP/1.1" 200 2378
