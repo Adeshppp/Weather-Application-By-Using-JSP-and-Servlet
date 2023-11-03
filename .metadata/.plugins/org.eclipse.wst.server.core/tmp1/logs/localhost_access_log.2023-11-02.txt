@@ -1,0 +1,7 @@
+127.0.0.1 - - [02/Nov/2023:23:55:36 -0400] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:23:55:36 -0400] "GET /MyWeatherApp/index.html HTTP/1.1" 200 114
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:23:55:44 -0400] "GET /MyWeatherApp/index.html HTTP/1.1" 200 114
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:23:55:44 -0400] "GET /MyWeatherApp/index.html HTTP/1.1" 200 114
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:23:55:45 -0400] "GET /MyWeatherApp/index.html HTTP/1.1" 200 114
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:23:55:45 -0400] "GET /MyWeatherApp/index.html HTTP/1.1" 200 114
+0:0:0:0:0:0:0:1 - - [02/Nov/2023:23:57:58 -0400] "GET /MyWeatherApp/index.html HTTP/1.1" 200 114
