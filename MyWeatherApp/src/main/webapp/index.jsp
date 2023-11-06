@@ -25,7 +25,7 @@
             <div class="weatherIcon">
                 <img src="" alt="Clouds" id="weather-icon">
                 <h2>${temperature} °C</h2>
-                 <input type="hidden" id="wc" value="${weatherCondition}"> </input>
+                 <input type="hidden" id="wc" value="${weatherCondition}"/> 
             </div>
             
             <div class="cityDetails">        
